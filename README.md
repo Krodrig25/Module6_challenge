@@ -1,4 +1,4 @@
-This is a Jupyter notebook that analysis the housing rental market data for San Francisco. The analysis is complete with professionally styled and formatted interactive visualizations.
+This is a Jupyter notebook that analyzes the San Francisco housing rental market data for client's potential investment. The analysis is complete with professionally styled and formatted interactive visualization for a more comprehensible presentation.
 
 Technologies
 
